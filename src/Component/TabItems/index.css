@@ -1,0 +1,17 @@
+.tabs-button {
+  background-color: transparent;
+  color: white;
+  border: none;
+  font-size: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+  border-bottom: 3px solid #fec653;
+}
+.btn-OFF {
+  background-color: transparent;
+  color: white;
+  border: none;
+  font-size: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
